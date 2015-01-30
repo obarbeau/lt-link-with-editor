@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "link with editor_compiled.js")]
+     :editor [:lt.plugins.link-with-editor/enable]}}
