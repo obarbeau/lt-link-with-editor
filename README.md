@@ -33,6 +33,9 @@ did the CSS config) the file being edited.
 
 ## TODO
 
+* use for CSS styling
+  <https://github.com/LightTable/LightTable/wiki/FAQ#how-do-i-load-custom-css-files-at-startup>
+* raise an event to display workspace sidebar if required
 * change behavior file format
 * add keymap
 
